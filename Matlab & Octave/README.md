@@ -1,9 +1,4 @@
-# Tech Stack :flags: <br> 
-
-This page contains a collection of software that I have used to support my work and projects so far.<br><br>
-
-
-### :small_red_triangle_down: MATLAB<br> 
+### MATLAB :flags: <br> 
 ![plot](https://upload.wikimedia.org/wikipedia/commons/archive/2/21/20170128174109%21Matlab_Logo.png)<br>
 MATLAB is a mathematical software package which can be used for *analysing and solving mathematical and engineering problems* such as *numerical computations*, *graphs plotting*, *programming* and more. MATLAB treat all the variables in form of scalar, vector or matrices form. MATLAB is aimed to give a new users have an overview of how to use the basic and intermediate level of MATLAB and of course to keep this free for students who might be using this book for their course. To start off, MATLAB is a scripting language (Note that I didn't mentioned it is programming language) for data analysis, think of it as a super-powered programmable calculator with useful default functions that are built specifically for math applications.<br>
 
