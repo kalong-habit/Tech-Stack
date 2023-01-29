@@ -16,5 +16,3 @@ In the other words based on my experience, to avoid overcost or failure in trial
 If you still a newbie in MATLAB, don't worry. MATLAB provide you "toolbox" if you need develop your systems but you yet to understand to develop it using dynamical systems model. You just click and drag following your own systems, fill the value that you need, then simulate it. Super easy.<br>
 
 Unfortunately, MATLAB is paid software, and it only being free for student since your college is subscribe (following my experience). But don't worry if you are an Open Source maniac. Octave is a MATLAB alternative if you looking for free software.<br><br>
-
-**MATLAB access here https://matlab.mathworks.com/ || OCTAVE access here https://octave.org/download**
