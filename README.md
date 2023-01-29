@@ -17,5 +17,4 @@ If you still a newbie in MATLAB, don't worry. MATLAB provide you "toolbox" if yo
 
 Unfortunately, MATLAB is paid software, and it only being free for student since your college is subscribe (following my experience). But don't worry if you are an Open Source maniac. Octave is a MATLAB alternative if you looking for free software.<br><br>
 
-MATLAB access here https://matlab.mathworks.com/<br>
-OCTAVE access here https://octave.org/download
+MATLAB access here https://matlab.mathworks.com/ || OCTAVE access here https://octave.org/download
