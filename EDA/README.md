@@ -10,5 +10,4 @@ Various EDA software that I experienced are:
 ### :small_red_triangle_down: Multisim<br>
 ![plot](https://upload.wikimedia.org/wikipedia/commons/d/de/Multisim_logo.jpg?20220131174905)<br><br>
 
-Since I no longer to design my own PCB (I prefer to buy dev board), for now I'm trying to adapt with open source EDA software **KiCad** :sweat_smile: <br>
-![plot](https://avatars.githubusercontent.com/u/3374914?s=200&v=4)
+Since I no longer to design my own PCB (I prefer to buy dev board), for now I'm trying to adapt with open source EDA software **KiCad** and **EasyEDA** :sweat_smile: <br>
